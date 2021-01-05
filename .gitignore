@@ -90,3 +90,6 @@ sw.*
 *.swp
 
 .vscode
+
+package-lock.json
+yarn.lock
