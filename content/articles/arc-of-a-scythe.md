@@ -1,12 +1,12 @@
 ---
 title: Arc of a Scythe
 description: Arc of a Scythe book series review
-img: /images/scythe.jpg
+img: images/scythe.jpg
 alt: Article 1
 author: 
   name: AmirMohammad
   bio: AMP, developer, music lover, into series and movies
-  img: /images/me.jpg
+  img: images/me.jpg
 tags: 
   - books
 ---
