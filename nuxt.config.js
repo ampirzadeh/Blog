@@ -5,14 +5,14 @@ export default {
    */
   target: 'static',
   router: {
-    base: '/blog/'
+    base: process.env.NODE_ENV === 'production' ? '/blog/' : '/'
   },
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'AMP Blog',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

@@ -5,16 +5,16 @@
       type="search"
       autocomplete="off"
       placeholder="Search Articles"
-      class="block w-full pl-10 pr-3 py-2 truncate leading-5 placeholder-gray-500 border border-gray-500 text-gray-700 focus:border-gray-300 rounded-md focus:outline-none focus:bg-white bg-white"
+      class="block w-full py-2 pl-10 pr-3 leading-5 text-gray-700 placeholder-gray-500 truncate bg-white border border-gray-500 rounded-md focus:border-gray-300 focus:outline-none focus:bg-white"
     />
     <ul
       v-if="articles.length"
-      class="z-10 absolute w-auto flex-1 top-40 bg-white dark:bg-gray-900 rounded-md border border-gray-300 overflow-hidden"
+      class="absolute z-10 flex-1 w-auto overflow-hidden bg-white border border-gray-300 rounded-md top-40"
     >
       <li v-for="article of articles" :key="article.slug">
         <NuxtLink
-          :to="{ name: 'blog-slug', params: { slug: article.slug } }"
-          class="flex px-4 py-2 items-center leading-5 transition ease-in-out duration-150 text-green-500 hover:text-black"
+          :to="{ name: 'slug', params: { slug: article.slug } }"
+          class="flex items-center px-4 py-2 leading-5 text-green-500 transition duration-150 ease-in-out hover:text-black"
         >
           {{ article.title }}
         </NuxtLink>
