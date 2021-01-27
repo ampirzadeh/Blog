@@ -34,3 +34,25 @@ It was apparent that Neil Shusterman does not write a book without doing the res
 In general, the series had everything a good series should have: Character development, villain development, a grey villain rather than a black one, enjoyable story-telling, interesting concepts, surprising yet pleasant turn of events, relatable main characters that are not perfect, complications and simplicity and points and many more qualities that I can't write but you can count on Scythe, Thunderhead, and The Toll, to have them.
 
 To cap it all, I highly recommend this book to anyone who is into science fiction, history, people, the meaning of life and death, stories that take place in the future, stories that take place in the past, and in general anyone who can read.
+
+Where are you, my dear Marie? My existence has been all about silencing life,
+but until now I have not dared to entertain that wholly mortal-age question of
+what lies beyond the silence. Such elaborate ideas those mortals had! Heaven
+and hell—nirvana and Valhalla, reincarnations, hauntings, and so many
+underworlds, one would think the grave was a corridor with a million doors.
+Mortals were the children of extremes. Either death was sublime, or it was
+unthinkable—such a mélange of hope and terror, no wonder so many mortals
+were driven mad.
+
+We post-mortals lack such imagination. The living do not ponder death
+anymore. Or at least not until a scythe pays a visit. But once the scythe’s
+business is done, mourning is brief, and thoughts of what it means to “not be”
+disappear, vanquished by nanites that disrupt dark, unproductive thinking. As
+post-mortals of perpetually sound mind, we are not allowed to dwell on that
+which we cannot change.
+But my nanites are dialed low, and therefore I do dwell. And I find myself
+asking again and again, where are you, my dear Marie?
+
+> From the “postmortem” journal of Scythe Michael Faraday, May
+
+> 18th, Year of the Raptor
