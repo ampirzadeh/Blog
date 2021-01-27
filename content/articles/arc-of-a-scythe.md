@@ -10,8 +10,27 @@ author:
 tags: 
   - books
 ---
-## what do you know and what do we not know
+Arc of a scythe, what a series, what a series indeed. Perhaps the best books I have ever read.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+The series which consists of 3 books, was written by Neal Shusterman (58 years old) and published by Simon & Schuster in 2016.
+All the books are set in a future (about 350 years from now) where death by natural causes such as disease and old age has been conquered and humans can set back their age or "turn a corner" to a certain age that they wish for.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Due to humans being basically immortal, the problem of not enough resources and overpopulation arises and the "scythedom" is born.
+
+Scythes, being named scythes because they are only tools for society, are chosen people who choose other people for gleaning (killing them).
+
+The series revolves around Citra Terranova and Rowan Damisch and some exceptionally well-developed side characters. These two 16-year-olds must go through scythe apprenticeship under the teachings of "Honorable Scythe Faraday" who was a character that I love.
+
+The series has a very deep meaning beneath its surface about the nature of humanity, friendship, compassion, love, and most importantly, life and death.
+
+The main antagonist in the series is not-quite-so-honorable Scythe Goddard.
+
+In case you're familiar with the names Goddard and Faraday, I must say that these two people along with many of the other characters in the books are named after their chosen historian patriots. Changing their names when they're chosen as scythes to show the end of their previous life.
+
+I liked Shusterman's choice to name the characters after historian figures very much because it was quite fun to compare the characters' descriptions in the books with the historian figure himself, and commonly there were some similarities that made me burst out laughing.
+
+It was apparent that Neil Shusterman does not write a book without doing the research first and spends a lot of time on each character, hence the story being so emotional and overwhelming at points.
+
+In general, the series had everything a good series should have: Character development, villain development, a grey villain rather than a black one, enjoyable story-telling, interesting concepts, surprising yet pleasant turn of events, relatable main characters that are not perfect, complications and simplicity and points and many more qualities that I can't write but you can count on Scythe, Thunderhead, and The Toll, to have them.
+
+To cap it all, I highly recommend this book to anyone who is into science fiction, history, people, the meaning of life and death, stories that take place in the future, stories that take place in the past, and in general anyone who can read.

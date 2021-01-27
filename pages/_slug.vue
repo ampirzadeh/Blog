@@ -45,7 +45,7 @@
       <p>{{ article.description }}</p>
       <p class="pb-4">Post last updated: {{ formatDate(article.updatedAt) }}</p>
       <!-- table of contents -->
-      <nav class="pb-6">
+      <!-- <nav class="pb-6">
         <ul>
           <li
             v-for="link of article.toc"
@@ -65,7 +65,7 @@
             >
           </li>
         </ul>
-      </nav>
+      </nav> -->
       <!-- content from markdown -->
       <nuxt-content :document="article" />
       <!-- content author component -->
