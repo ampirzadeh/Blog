@@ -5,7 +5,7 @@ export default {
    */
   target: 'static',
   router: {
-    base: process.env.NODE_ENV === 'production' ? '/blog/' : '/'
+    base: process.env.NODE_ENV === 'production' ? '/Blog/' : '/'
   },
   /*
    ** Headers of the page
